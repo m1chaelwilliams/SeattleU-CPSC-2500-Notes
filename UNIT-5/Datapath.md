@@ -1,7 +1,7 @@
 [< Outline](UNIT-5/README.md)
 
 # Datapath
-[Go to Definition](Terms#^e05a11)
+[Go to Definition (Obsidian Only)](Terms#^e05a11)
 
 ## Datapath Assumptions
 
