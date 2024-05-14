@@ -1,4 +1,8 @@
 {
+<<<<<<< HEAD
   "accentColor": "",
+=======
+  "accentColor": "#828282",
+>>>>>>> b1052b3ef7f93a352da5241634ee44fdc9ca5c76
   "cssTheme": "Things"
 }

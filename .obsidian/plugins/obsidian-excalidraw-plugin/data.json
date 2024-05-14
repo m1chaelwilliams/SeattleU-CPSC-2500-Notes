@@ -6,7 +6,10 @@
   "templateFilePath": "Excalidraw/Template.excalidraw",
   "scriptFolderPath": "Excalidraw/Scripts",
   "compress": false,
+<<<<<<< HEAD
   "decompressForMDView": true,
+=======
+>>>>>>> b1052b3ef7f93a352da5241634ee44fdc9ca5c76
   "autosave": true,
   "autosaveInterval": 15000,
   "autosaveIntervalDesktop": 15000,
@@ -30,7 +33,11 @@
   "iframeMatchExcalidrawTheme": true,
   "matchTheme": false,
   "matchThemeAlways": false,
+<<<<<<< HEAD
   "matchThemeTrigger": false,
+=======
+  "matchThemeTrigger": true,
+>>>>>>> b1052b3ef7f93a352da5241634ee44fdc9ca5c76
   "defaultMode": "normal",
   "defaultPenMode": "never",
   "penModeCrosshairVisible": true,
@@ -86,7 +93,11 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
+<<<<<<< HEAD
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.8",
+=======
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.7",
+>>>>>>> b1052b3ef7f93a352da5241634ee44fdc9ca5c76
     "libraryItems": []
   },
   "imageElementNotice": true,
@@ -98,7 +109,11 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": true,
+<<<<<<< HEAD
   "previousRelease": "2.1.8",
+=======
+  "previousRelease": "2.1.7",
+>>>>>>> b1052b3ef7f93a352da5241634ee44fdc9ca5c76
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
@@ -740,6 +755,10 @@
   "slidingPanesSupport": false,
   "areaZoomLimit": 1,
   "longPressDesktop": 500,
+<<<<<<< HEAD
   "longPressMobile": 500,
   "isDebugMode": false
+=======
+  "longPressMobile": 500
+>>>>>>> b1052b3ef7f93a352da5241634ee44fdc9ca5c76
 }
