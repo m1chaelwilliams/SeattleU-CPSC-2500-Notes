@@ -1,7 +1,7 @@
-[[UNIT-5/README|< Outline]]
+[< Outline](UNIT-5/README.md)
 
 # Datapath
-[[Terms#^e05a11|Go to Definition]]
+[Go to Definition](Terms#^e05a11)
 
 ## Datapath Assumptions
 

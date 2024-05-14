@@ -2,7 +2,7 @@
 *Unofficial notes taken for __Computer Organization__*.
 
 ## Table of Contents
-- [[UNIT-5/README|Unit 5]]
+- [[UNIT-5/README.md|Unit 5]]
 
 ## Notice
 These notes *only* exist to assist in studying for the course. There is in no way any attempt to "give away" answers.
