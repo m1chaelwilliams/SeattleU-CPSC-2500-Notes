@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "a59666be3ff450cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c87deb82d34d6c7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a61cc588ca515ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNIT-5/Datapath.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53762745ad7fcfe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNIT-5/Datapath.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d2bc27e30498f1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fc8cb48320d63fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7460602ad7cde5bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f1d3dd32be7417f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf0c63566a6bff6e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70396c88c25d2af9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b02823058ef1cb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08398355db08e521",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UNIT-5/Datapath.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cca5136503f4924c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UNIT-5/Datapath.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c01ee01bea3a87b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "40900880783602bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UNIT-5/Datapath.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "1a61cc588ca515ed",
+  "lastOpenFiles": [
+    "UNIT-5/Introduction.md",
+    "UNIT-5/README.md",
+    "UNIT-5/Datapath.md",
+    "UNIT-5/UNIT 5 - Microarchitecture.md",
+    "UNIT-5/Terms.md",
+    "README.md",
+    "LICENSE-MIT.txt",
+    "LICENSE-MIT (1).txt",
+    "hw1.md",
+    "Unit 2.md",
+    "UNIT-5",
+    "assets/unit-5/Screen Shot 2024-05-13 at 1.36.50 PM.png",
+    "assets/unit-5",
+    "assets",
+    "misc/Floating Point Numbers.md",
+    "ANNA Language Guide (Revised).md",
+    "misc",
+    "Exam 1 Review.md",
+    "assets/unit-5/Screen Shot 2024-05-13 at 1.45.20 PM.png",
+    "Welcome.md"
+  ]
+}

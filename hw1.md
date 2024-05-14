@@ -1,4 +1,0 @@
-# Conversions
-
-| | Decimal | Binary | Hexidecimal |
-| | 
