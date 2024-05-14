@@ -1,6 +1,6 @@
 
 # Terms
-- ### __[[#Datapath]]__ ^e05a11
+- ### __Datapath__ ^e05a11
 	- A collection of interconnected modules that perform all the relevant computation on the data.
 		- *For a __CPU__*: Set of __components__ that perform __arithmetic__ operations and hold data.
 - ### __Control Unit__
